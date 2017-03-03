@@ -1,2 +1,2 @@
 # DungeonCrawl
-simple dungeon crawl game for learning purposes
+simple console based dungeon crawl game for learning purposes
